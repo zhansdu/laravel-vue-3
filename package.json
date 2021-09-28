@@ -22,5 +22,12 @@
         "sass-loader": "^8.0.0",
         "vue": "^3.0.2",
         "vue-loader": "^16.0.0-beta.9"
+    },
+    "dependencies": {
+        "ts-loader": "^9.2.6",
+        "typescript": "^4.4.3",
+        "vue-class-component": "^8.0.0-rc.1",
+        "vue-router": "^4.0.11",
+        "vuex": "^4.0.2"
     }
 }
